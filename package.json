@@ -1,0 +1,17 @@
+{
+  "name": "orbfi-contracts",
+  "version": "0.1.0",
+  "description": "contracts for orbfi transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.12.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0"
+  }
+}
